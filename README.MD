@@ -1,5 +1,5 @@
-Projet : Langues et Dynamiques Culturelles
-Thème principal : "L'évolution des langues et leur influence sur les cultures."
+# Projet : Langues et Dynamiques Culturelles
+## Thème principal : "L'évolution des langues et leur influence sur les cultures."
 
 Ce projet vise à explorer comment les langues évoluent, disparaissent ou se transforment sous l'effet de facteurs comme les migrations, la mondialisation, et l'essor des réseaux sociaux.
 
